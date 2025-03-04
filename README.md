@@ -1,19 +1,18 @@
 # 🚀 Bem-vindo ao meu GitHub!
 
-Esta é minha conta secundária, onde salvo e compartilho algumas das minhas criações:
+Esta é minha conta principal, onde compartilho e salvo algumas das minhas criações e projetos:
 
-- **Scripts para exploits**
-- **Criações de scripts para o Roblox Studio**
-- **Páginas e outros projetos**
+- **Scripts para Roblox Studio**
+- **Criações de scripts para exploração**
+- **Páginas web e outros projetos**
 
-Criei essa conta para armazenar meus projetos e deixá-los públicos para quem quiser ver.
+Criei essa conta para armazenar e compartilhar meus projetos com a comunidade, deixando-os públicos para quem tiver interesse!
 
 ---
 
 # 📚 Aprendizado
 
-Estou aprendendo programação por conta própria, estudando em casa com vídeo-aulas e praticando.  
-Atualmente, estou aprendendo as seguintes linguagens:
+Sou autodidata em **programação**, aprendendo com vídeo-aulas e praticando por conta própria. Atualmente, estou focado nas seguintes linguagens:
 
 - **Lua / Luau**
 - **JavaScript**
@@ -24,9 +23,11 @@ Atualmente, estou aprendendo as seguintes linguagens:
 
 # 🎯 Sobre mim
 
-Não sou nerd e não sei muitas coisas, apenas um iniciante explorando e criando projetos simples e práticos!
+Sou um entusiasta da programação, começando agora e explorando o mundo da criação de scripts e projetos simples e práticos. Não sou um expert, mas estou sempre buscando melhorar!
 
-Se quiser, sinta-se à vontade para conferir meus projetos.
+Fique à vontade para conferir meus projetos!
 
-Atenciosamente,  
-**Noah**
+---
+
+**Atenciosamente,  
+Noah**
